@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Jasper103/react-final-project/static/css/main.130ececc.chunk.css",
+    "main.js": "/Jasper103/react-final-project/static/js/main.cfc9096c.chunk.js",
+    "main.js.map": "/Jasper103/react-final-project/static/js/main.cfc9096c.chunk.js.map",
+    "runtime~main.js": "/Jasper103/react-final-project/static/js/runtime~main.d49f5fed.js",
+    "runtime~main.js.map": "/Jasper103/react-final-project/static/js/runtime~main.d49f5fed.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Jasper103/react-final-project/static/css/2.266e55a5.chunk.css",
+    "static/js/2.0d210ff1.chunk.js": "/Jasper103/react-final-project/static/js/2.0d210ff1.chunk.js",
+    "static/js/2.0d210ff1.chunk.js.map": "/Jasper103/react-final-project/static/js/2.0d210ff1.chunk.js.map",
+    "index.html": "/Jasper103/react-final-project/index.html",
+    "precache-manifest.20123854028644c7dde097fcbeeeefcd.js": "/Jasper103/react-final-project/precache-manifest.20123854028644c7dde097fcbeeeefcd.js",
+    "service-worker.js": "/Jasper103/react-final-project/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Jasper103/react-final-project/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.130ececc.chunk.css.map": "/Jasper103/react-final-project/static/css/main.130ececc.chunk.css.map",
+    "static/media/App.css": "/Jasper103/react-final-project/static/media/weather.316751a9.jpg"
+  }
+}
