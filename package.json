@@ -2,7 +2,7 @@
   "name": "react-final-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jasper103.github.io/react-final-project",
+  "homepage": "https://github.com/Jasper103/react-final-project",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
