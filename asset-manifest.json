@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Jasper103/react-final-project/static/css/main.130ececc.chunk.css",
-    "main.js": "/Jasper103/react-final-project/static/js/main.cfc9096c.chunk.js",
-    "main.js.map": "/Jasper103/react-final-project/static/js/main.cfc9096c.chunk.js.map",
-    "runtime~main.js": "/Jasper103/react-final-project/static/js/runtime~main.d49f5fed.js",
-    "runtime~main.js.map": "/Jasper103/react-final-project/static/js/runtime~main.d49f5fed.js.map",
-    "static/css/2.266e55a5.chunk.css": "/Jasper103/react-final-project/static/css/2.266e55a5.chunk.css",
-    "static/js/2.0d210ff1.chunk.js": "/Jasper103/react-final-project/static/js/2.0d210ff1.chunk.js",
-    "static/js/2.0d210ff1.chunk.js.map": "/Jasper103/react-final-project/static/js/2.0d210ff1.chunk.js.map",
-    "index.html": "/Jasper103/react-final-project/index.html",
-    "precache-manifest.20123854028644c7dde097fcbeeeefcd.js": "/Jasper103/react-final-project/precache-manifest.20123854028644c7dde097fcbeeeefcd.js",
-    "service-worker.js": "/Jasper103/react-final-project/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/Jasper103/react-final-project/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.130ececc.chunk.css.map": "/Jasper103/react-final-project/static/css/main.130ececc.chunk.css.map",
-    "static/media/App.css": "/Jasper103/react-final-project/static/media/weather.316751a9.jpg"
+    "main.css": "/react-final-project/static/css/main.d7eb98ca.chunk.css",
+    "main.js": "/react-final-project/static/js/main.2807337b.chunk.js",
+    "main.js.map": "/react-final-project/static/js/main.2807337b.chunk.js.map",
+    "runtime~main.js": "/react-final-project/static/js/runtime~main.ce49cc73.js",
+    "runtime~main.js.map": "/react-final-project/static/js/runtime~main.ce49cc73.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-final-project/static/css/2.266e55a5.chunk.css",
+    "static/js/2.0d210ff1.chunk.js": "/react-final-project/static/js/2.0d210ff1.chunk.js",
+    "static/js/2.0d210ff1.chunk.js.map": "/react-final-project/static/js/2.0d210ff1.chunk.js.map",
+    "index.html": "/react-final-project/index.html",
+    "precache-manifest.6fb0d47c7ce441dc430a7a0240b65d61.js": "/react-final-project/precache-manifest.6fb0d47c7ce441dc430a7a0240b65d61.js",
+    "service-worker.js": "/react-final-project/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-final-project/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d7eb98ca.chunk.css.map": "/react-final-project/static/css/main.d7eb98ca.chunk.css.map",
+    "static/media/App.css": "/react-final-project/static/media/weather.316751a9.jpg"
   }
 }
